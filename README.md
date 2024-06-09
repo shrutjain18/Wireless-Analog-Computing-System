@@ -1,7 +1,7 @@
 # Analog-Calculator
-This project features a hardware system that functions like an analog calculator. It processes various arithmetic expressions, executing calculations on command using analog components.\
+This project features a hardware system that functions like an analog calculator. It processes various arithmetic expressions, executing calculations on command using analog components.
+<img src="https://github.com/KeshavBaldeva/Analog-Calculator/assets/152970391/5ad662b9-db38-4fad-b2ef-cd59aa21ef24" width="180">
 
-<img src="https://github.com/KeshavBaldeva/Analog-Calculator/assets/152970391/5ad662b9-db38-4fad-b2ef-cd59aa21ef24" width="48">
 ## Specifications
 -The arithmetic expression to be evaluated is communicated to the hardware through a wireless IR Module.                                                                       
 -The expression contains four operators: addition, subtraction, multiplication, and radication (N<sup>th</sup> root), which will be calculated in a calculator style following the BODMAS rule.\
