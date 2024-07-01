@@ -1,7 +1,7 @@
 # Wireless Analog Computing System
 This project features a hardware system that functions like an analog calculator. It processes various arithmetic expressions, executing calculations on command using analog components.\
  \
-<img src="https://github.com/KeshavBaldeva/Analog-Calculator/assets/152970391/5ad662b9-db38-4fad-b2ef-cd59aa21ef24" width="700">
+<img src="https://github.com/KeshavBaldeva/Analog-Calculator/assets/152970391/5ad662b9-db38-4fad-b2ef-cd59aa21ef24" width="500">
 
 ## Specifications
 - The arithmetic expression to be evaluated is communicated to the hardware through a wireless IR Module.                                                                       
