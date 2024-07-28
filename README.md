@@ -6,7 +6,7 @@ This project, named "Beyond Bits" from the inter-hostel tech competition, featur
 ## Specifications
 - **Input Method**: The arithmetic expression to be evaluated is communicated to the hardware through a wireless IR Module.
 - **Supported Operators**: The expression contains four operators: addition, subtraction, multiplication, and radication (N<sup>th</sup> root), which will be calculated in a calculator style following the BODMAS rule.
-- - **Operand Range**: The system handles operands in the range 0-12.
+- **Operand Range**: The system handles operands in the range 0-12.
 - **Analog Components**: The operations are executed using hardware consisting of discrete analog components (Op-Amps, transistors). ADC, DAC, and other ICs are used only for communication purposes.
 
 
